@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* div{
+    border: 2px solid black;
+} */
+.header{
+    background-image: url(https://i.pinimg.com/736x/e1/c2/3a/e1c23ac34847740f672717c89a62ae37.jpg);
+    width: 99vw;
+    height: 20vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.serach{
+    position: sticky;
+    top: 60px;
+    left: 15%;
+    width: 70%;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(99, 18, 18, 1);
+    color: white;
+    border: none;
+    padding: 10px;
+}
+img{
+    border-radius: 50%;
+    /* margin: 40px 100px; */
+}
+span{
+    margin: 40px 100px;
+}
+.main{
+    background-color:rgb(165, 42, 42, 0.2);
+    display: flex;
+}
+.decs{
+    text-align: center; 
+    
+}
+.caffe-house
+{
+    width: 90vw;
+    margin:0px 20px;
+    background-color: rgb(165, 42, 42, 0.3);
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 8px brown;
+    color:brown;
+}
+.last{
+    background-color: rgb(165, 42, 42, 0.2);
+    margin: 0px;
+    padding: 50px;
+}
+.caffe2{
+    padding: auto;
+    margin: 50px;
+}
